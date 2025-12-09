@@ -58,7 +58,7 @@
 	"onCreateCommand": "echo \"PS1='$ '\" >> ~/.bashrc",
 	"postCreateCommand": "sh .devcontainer/startup.sh",
 	"containerEnv": {
-		"PYTHONPATH": "/workspaces/practical-python-for-time-series-analysis",
+		"PYTHONPATH": "/workspaces/practical-python-for-time-series-analysis-5452014",
 		"UV_LINK_MODE": "copy",
 		"UV_PROJECT_ENVIRONMENT": "/opt/venv"
 	}

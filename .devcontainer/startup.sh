@@ -17,4 +17,10 @@ echo "Installing IPython kernel..."
 echo "Setting up IPython configuration..."
 mkdir -p ~/.ipython/profile_default/startup && cp .devcontainer/pandas-startup.py ~/.ipython/profile_default/startup/00-pandas-options.py
 
+#libs for virtual env
+#i added those last three lines because the venv wasn't getting the libs properly
+/opt/venv/bin/python -m ensurepip --upgrade
+/opt/venv/bin/python -m pip install --upgrade pip
+/opt/venv/bin/pip install pandas pyarrow fastparquet plotly nbformat nbconvert seaborn scikit-learn statsmodels ipykernel matplotlib numpy scipy prophet ruff jupyter notebook openpyxl
+
 echo "Devcontainer setup complete!"
