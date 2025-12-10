@@ -1,42 +1,42 @@
 respondent:
-- id: SCEG
-  name: Dominion Energy South Carolina, Inc.
-  description: null
-- id: TEPC
-  name: Tucson Electric Power
-  description: null
-- id: NWMT
-  name: NorthWestern Corporation
-  description: null
-- id: CISO
-  name: California Independent System Operator
-  description: null
-- id: PSEI
-  name: Puget Sound Energy, Inc.
+- id: CAL
+  name: California
   description: null
 - id: NYIS
   name: New York Independent System Operator
   description: null
-- id: MIDA
-  name: Mid-Atlantic
-  description: null
-- id: NY
-  name: New York
-  description: null
-- id: GVL
-  name: Gainesville Regional Utilities
-  description: null
-- id: FMPP
-  name: Florida Municipal Power Pool
+- id: CISO
+  name: California Independent System Operator
   description: null
 - id: LDWP
   name: Los Angeles Department of Water and Power
   description: null
+- id: MIDA
+  name: Mid-Atlantic
+  description: null
+- id: TEPC
+  name: Tucson Electric Power
+  description: null
+- id: SCEG
+  name: Dominion Energy South Carolina, Inc.
+  description: null
 - id: CAR
   name: Carolinas
   description: null
-- id: CAL
-  name: California
+- id: PSEI
+  name: Puget Sound Energy, Inc.
+  description: null
+- id: GVL
+  name: Gainesville Regional Utilities
+  description: null
+- id: NWMT
+  name: NorthWestern Corporation
+  description: null
+- id: FMPP
+  name: Florida Municipal Power Pool
+  description: null
+- id: NY
+  name: New York
   description: null
 - id: NEVP
   name: Nevada Power Company
@@ -53,41 +53,41 @@ respondent:
 - id: WAUW
   name: Western Area Power Administration - Upper Great Plains West
   description: null
-- id: PNM
-  name: Public Service Company of New Mexico
-  description: null
-- id: TVA
-  name: Tennessee Valley Authority
-  description: null
-- id: IID
-  name: Imperial Irrigation District
-  description: null
-- id: PSCO
-  name: Public Service Company of Colorado
+- id: SW
+  name: Southwest
   description: null
 - id: JEA
   name: JEA
   description: null
+- id: PSCO
+  name: Public Service Company of Colorado
+  description: null
+- id: IID
+  name: Imperial Irrigation District
+  description: null
+- id: PNM
+  name: Public Service Company of New Mexico
+  description: null
 - id: PACE
   name: PacifiCorp East
   description: null
-- id: SW
-  name: Southwest
-  description: null
-- id: TIDC
-  name: Turlock Irrigation District
+- id: TVA
+  name: Tennessee Valley Authority
   description: null
 - id: US48
   name: United States Lower 48
   description: null
-- id: FPL
-  name: Florida Power & Light Co.
+- id: TIDC
+  name: Turlock Irrigation District
+  description: null
+- id: CENT
+  name: Central
   description: null
 - id: MISO
   name: Midcontinent Independent System Operator, Inc.
   description: null
-- id: CENT
-  name: Central
+- id: FPL
+  name: Florida Power & Light Co.
   description: null
 - id: ERCO
   name: Electric Reliability Council of Texas, Inc.
@@ -95,38 +95,38 @@ respondent:
 - id: SIKE
   name: Sikeston Board of Municipal Utilities
   description: null
-- id: EPE
-  name: El Paso Electric Company
-  description: null
-- id: PJM
-  name: PJM Interconnection, LLC
-  description: null
-- id: SEC
-  name: Seminole Electric Cooperative
-  description: null
-- id: PACW
-  name: PacifiCorp West
-  description: null
-- id: WALC
-  name: Western Area Power Administration - Desert Southwest Region
-  description: null
 - id: PGE
   name: Portland General Electric Company
-  description: null
-- id: BANC
-  name: Balancing Authority of Northern California
-  description: null
-- id: TPWR
-  name: City of Tacoma, Department of Public Utilities, Light Division
   description: null
 - id: TEC
   name: Tampa Electric Company
   description: null
+- id: SEC
+  name: Seminole Electric Cooperative
+  description: null
+- id: WALC
+  name: Western Area Power Administration - Desert Southwest Region
+  description: null
+- id: BANC
+  name: Balancing Authority of Northern California
+  description: null
+- id: PJM
+  name: PJM Interconnection, LLC
+  description: null
+- id: PACW
+  name: PacifiCorp West
+  description: null
 - id: CHPD
   name: Public Utility District No. 1 of Chelan County
   description: null
+- id: EPE
+  name: El Paso Electric Company
+  description: null
 - id: YAD
   name: Alcoa Power Generating, Inc. - Yadkin Division
+  description: null
+- id: TPWR
+  name: City of Tacoma, Department of Public Utilities, Light Division
   description: null
 - id: NE
   name: New England
@@ -137,92 +137,95 @@ respondent:
 - id: DEAA
   name: Arlington Valley, LLC
   description: null
-- id: WWA
-  name: NaturEner Wind Watch, LLC
-  description: null
-- id: AVRN
-  name: Avangrid Renewables, LLC
+- id: MIDW
+  name: Midwest
   description: null
 - id: ISNE
   name: ISO New England
   description: null
-- id: SWPP
-  name: Southwest Power Pool
-  description: null
-- id: NW
-  name: Northwest
-  description: null
 - id: FLA
   name: Florida
-  description: null
-- id: WACM
-  name: Western Area Power Administration - Rocky Mountain Region
   description: null
 - id: FPC
   name: Duke Energy Florida, Inc.
   description: null
-- id: AECI
-  name: Associated Electric Cooperative, Inc.
+- id: WACM
+  name: Western Area Power Administration - Rocky Mountain Region
   description: null
-- id: SEPA
-  name: Southeastern Power Administration
-  description: null
-- id: MIDW
-  name: Midwest
-  description: null
-- id: CPLE
-  name: Duke Energy Progress East
+- id: AVRN
+  name: Avangrid Renewables, LLC
   description: null
 - id: GRID
   name: Gridforce Energy Management, LLC
   description: null
+- id: SWPP
+  name: Southwest Power Pool
+  description: null
+- id: AECI
+  name: Associated Electric Cooperative, Inc.
+  description: null
+- id: NW
+  name: Northwest
+  description: null
+- id: CPLE
+  name: Duke Energy Progress East
+  description: null
+- id: WWA
+  name: NaturEner Wind Watch, LLC
+  description: null
+- id: SEPA
+  name: Southeastern Power Administration
+  description: null
 - id: AZPS
   name: Arizona Public Service Company
-  description: null
-- id: TAL
-  name: City of Tallahassee
   description: null
 - id: IPCO
   name: Idaho Power Company
   description: null
+- id: SE
+  name: Southeast
+  description: null
 - id: AVA
   name: Avista Corporation
-  description: null
-- id: TEX
-  name: Texas
-  description: null
-- id: TEN
-  name: Tennessee
-  description: null
-- id: SPA
-  name: Southwestern Power Administration
-  description: null
-- id: AEC
-  name: PowerSouth Energy Cooperative
   description: null
 - id: CPLW
   name: Duke Energy Progress West
   description: null
-- id: SE
-  name: Southeast
-  description: null
-- id: GRIF
-  name: Griffith Energy, LLC
+- id: SCL
+  name: Seattle City Light
   description: null
 - id: HGMA
   name: New Harquahala Generating Company, LLC
   description: null
+- id: TAL
+  name: City of Tallahassee
+  description: null
+- id: SPA
+  name: Southwestern Power Administration
+  description: null
+- id: GRIF
+  name: Griffith Energy, LLC
+  description: null
+- id: TEN
+  name: Tennessee
+  description: null
+- id: TEX
+  name: Texas
+  description: null
+- id: AEC
+  name: PowerSouth Energy Cooperative
+  description: null
 - id: EEI
   name: Electric Energy, Inc.
-  description: null
-- id: SCL
-  name: Seattle City Light
   description: null
 - id: GLHB
   name: GridLiance
   description: null
 - id: SRP
   name: Salt River Project Agricultural Improvement and Power District
+  description: null
+- id: BPAT
+  name: Bonneville Power Administration
   description: null
 - id: SOCO
   name: Southern Company Services, Inc. - Trans
@@ -231,17 +234,14 @@ respondent:
   name: LG&E and KU Services Company as agent for Louisville Gas and Electric Company
     and Kentucky Utilities Company
   description: null
-- id: BPAT
-  name: Bonneville Power Administration
-  description: null
-- id: NSB
-  name: Utilities Commission of New Smyrna Beach
+- id: DOPD
+  name: PUD No. 1 of Douglas County
   description: null
 - id: GWA
   name: NaturEner Power Watch, LLC
   description: null
-- id: DOPD
-  name: PUD No. 1 of Douglas County
+- id: NSB
+  name: Utilities Commission of New Smyrna Beach
   description: null
 fueltype:
 - id: PS
